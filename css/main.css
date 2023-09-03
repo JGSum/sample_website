@@ -1,0 +1,25 @@
+
+.nav-menu {
+  text-align: right;
+}
+.nav-spacing {
+  margin: 0 0 0 10px;
+}
+.image-link {
+  text-decoration: none;
+}
+.head-style1 {
+  text-align: center; margin: 0 0 80px;
+}
+.div-style1 {
+  width: 500px; margin: 20px auto;  padding: 30px; background-color: #fafafa;
+}
+.blockquote-style1 {
+  font-style: italic; font-size: 20px;
+}
+.td-style1 {
+  padding: 10px;
+}
+.blockquote-style2 {
+  padding: 2px 20px; background: #fafafa;
+}
